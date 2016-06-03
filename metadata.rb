@@ -1,0 +1,7 @@
+name 'chef-splunk-forwarder'
+maintainer 'Nikita Dinavahi'
+maintainer_email 'nikita.dinavahi@gmail.com'
+license 'all_rights'
+description 'Installs/Configures chef-splunk-forwarder'
+long_description 'Installs/Configures chef-splunk-forwarder'
+version '0.1.0'
